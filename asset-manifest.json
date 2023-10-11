@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ConsultWise/static/css/main.1834ec22.css",
+    "main.js": "/ConsultWise/static/js/main.e77e47ad.js",
+    "static/js/787.def2aeea.chunk.js": "/ConsultWise/static/js/787.def2aeea.chunk.js",
+    "static/media/logo.svg": "/ConsultWise/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ConsultWise/index.html",
+    "main.1834ec22.css.map": "/ConsultWise/static/css/main.1834ec22.css.map",
+    "main.e77e47ad.js.map": "/ConsultWise/static/js/main.e77e47ad.js.map",
+    "787.def2aeea.chunk.js.map": "/ConsultWise/static/js/787.def2aeea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1834ec22.css",
+    "static/js/main.e77e47ad.js"
+  ]
+}
