@@ -30,7 +30,7 @@ You may also see any lint errors in the console.
 
 ## 📌 Screenshots:
 ![home](/img/home.png)
-![home](/img/register.png)
+![register](/img/register.png)
 
 
 <h2>📬 Contact</h2>
